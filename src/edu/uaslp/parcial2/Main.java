@@ -36,5 +36,6 @@ public class Main {
     duck.setNumberOfLegs(2);
     duck.fly();
 
+
     }
 }

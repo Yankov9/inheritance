@@ -11,4 +11,5 @@ public class Bird extends Oviparous {
     public void walk() {
         System.out.println("Jump");
     }
+
 }

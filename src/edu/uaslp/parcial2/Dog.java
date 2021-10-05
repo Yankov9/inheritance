@@ -12,4 +12,5 @@ public class Dog extends Mammal {
     public void gasp() {
         System.out.println("Move tongue");
     }
+
 }
